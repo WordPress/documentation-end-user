@@ -1,3 +1,3 @@
-# Sustainability Handbook
+# WordPress End-User Documentation
 
-Welcome to the [WordPress Sustainability Handbook](https://make.wordpress.org/sustainability/handbook/)! Use the "Contents" menu on the left to navigate topics.
+Welcome to the [WordPress End-User Documentation](https://wordpress.org/documentation/)!
