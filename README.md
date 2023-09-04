@@ -12,3 +12,4 @@ This is the repository for the [WordPress End-User Documentation](https://wordpr
 - [JA - 日本語](ja/): 日本語のドキュメントを確認する。
 - [PT - Português](pt/): Consulte a documentação em português.
 - [RU - языке](ru/): Ознакомьтесь с документацией на русском языке.
+- [SR - Српски]: Погледајте документацију на српском..
