@@ -4,8 +4,8 @@ This is the repository for the [WordPress End-User Documentation](https://wordpr
 
 ## Languages
 
-- [DE - Deutsch](de/): Prüfen Sie die Dokumentation auf Deutsch.
 - [EN - English](en/): Check the documentation in English..
+- [DE - Deutsch](de/): Prüfen Sie die Dokumentation auf Deutsch.
 - [ES - Español](es/): Revisa la documentación en español..
 - [FR - Français](fr/): Consultez la documentation en français.
 - [IT - Italiano](it/): Controllare la documentazione in italiano.
