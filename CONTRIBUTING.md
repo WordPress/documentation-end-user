@@ -21,5 +21,5 @@ If you wish to translate WordPress documentation to langunage that doesn't exist
     - `git add .`
     - `git commit -m "Add <language_name> language."`
     - `git push origin add/language-<language_name>`
-10. Through GitHub create a pull request from your `add/language-<language_name>` branch to `trunk` branch in WordPress/documentation-end-user repo.
+10. Through GitHub create a pull request from your `add/language-<language_name>` branch to `trunk` branch in this repository.
 11. Wait for someone to review, approve and merge your request.
