@@ -14,3 +14,5 @@ This is the repository for the [WordPress End-User Documentation](https://wordpr
 - [RU - языке](ru/): Ознакомьтесь с документацией на русском языке.
 - [SR - Српски](sr/): Погледајте документацију на српском..
 - [BN - বাংলা](bn/): বাংলায় ডকুমেন্টেশন চেক করুন।
+
+_At this moment, adding languages is not allowed due technical challenges._
